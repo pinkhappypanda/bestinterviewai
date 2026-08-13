@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>AcePrompt</title>
+        <item>
+            <title>1.1.9</title>
+            <pubDate>Sun, 19 Jul 2026 00:33:11 +0530</pubDate>
+            <sparkle:version>1.1.9</sparkle:version>
+            <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/pinkhappypanda/bestinterviewai/releases/download/v1.1.9/AcePrompt-1.1.9.dmg" length="3985616" type="application/octet-stream" sparkle:edSignature="MyV7jbG82+KM10WNs4ML9M9B6Sl35PC9bOunw1W7R6OVQpkNVW79TYmFksGp46WQJdDNZ8tMcF0clsZXeaGaDw=="/>
+        </item>
+    </channel>
+</rss>
