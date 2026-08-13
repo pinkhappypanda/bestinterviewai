@@ -8,7 +8,7 @@
             <sparkle:version>1.1.9</sparkle:version>
             <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/pinkhappypanda/bestinterviewai/releases/download/v1.1.9/AcePrompt-1.1.9.dmg" length="3985616" type="application/octet-stream" sparkle:edSignature="MyV7jbG82+KM10WNs4ML9M9B6Sl35PC9bOunw1W7R6OVQpkNVW79TYmFksGp46WQJdDNZ8tMcF0clsZXeaGaDw=="/>
+            <enclosure url="https://github.com/pinkhappypanda/bestinterviewai/releases/download/v1.1.9/AcePrompt-1.1.9.dmg" length="3983633" type="application/octet-stream" sparkle:edSignature="lIQZDkr8JoJS/2Hion9UTFvt0jhG6tC6snvXWYLHXSrqqX/rfn1nPwRHsH6w+xNXf8c4rwvrXGeI+O9+XHyECw=="/>
         </item>
     </channel>
 </rss>
